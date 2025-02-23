@@ -8,22 +8,25 @@ const projectsData = [
     image: image1,
     title: "Dr. Lal Pathlabs",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, doloremque. Laboriosam sapiente ipsam earum labore expedita quod dignissimos tempora laborum autem, fugiat eos perferendis non odio vero voluptatibus dolorem illo? Possimus.",
-    technologies: ["HTML, CSS"],
+      "The DrLalPathLabs project is designed to provide a seamless and efficient experience for patients, doctors, and partners. It offers features such as online test bookings, report downloads, and access to detailed information about diagnostic tests and health programs.",
+    technologies: ["HTML", "CSS"],
+    link: "https://dr-lal-pathlabs-re-mct-m3-18-12-2024-rajat75-techs-projects.vercel.app/",
   },
   {
     image: image2,
     title: "Truecaller",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, doloremque. Laboriosam sapiente ipsam earum labore expedita quod dignissimos tempora laborum autem, fugiat eos perferendis non odio vero voluptatibus dolorem illo? Possimus.",
-    technologies: ["HTML, CSS", "JavaScript"],
+      "This project is a clone of the popular Truecaller application UI, developed as part of the Geekathon event. The goal of this project was to create a fully responsive and functional user interface that mimics the features of Truecaller using HTML,CSS and JavaScript. A team project made with 3 team members and one leader with a mentor.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://truecaller-clone.netlify.app/",
   },
   {
     image: image3,
     title: "TED Talks",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, doloremque. Laboriosam sapiente ipsam earum labore expedita quod dignissimos tempora laborum autem, fugiat eos perferendis non odio vero voluptatibus dolorem illo? Possimus.",
-    technologies: ["HTML, CSS", "JavaScript", "TailwindCSS"],
+      "The TEDtalks UI project recreates a user interface similar to the TED Talks homepage. It features a grid layout for videos, header and navigation sections, and a footer for additional links. ",
+    technologies: ["HTML", "CSS"],
+    link: "https://ted-talks-rajat75-techs-projects.vercel.app/"
   },
 ];
 
