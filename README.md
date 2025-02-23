@@ -21,5 +21,5 @@ A sleek and modern personal portfolio website built using React, Tailwind CSS, a
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/slakshya-22/portfolio.git
-   cd portfolio
+   git clone: https://github.com/Rajat75-tech/Portfolio.git
+   cd Portfolio
