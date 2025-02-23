@@ -24,6 +24,6 @@ A sleek and modern personal portfolio website built using React, Tailwind CSS, a
    git clone: https://github.com/Rajat75-tech/Portfolio.git
    cd Portfolio
 
-## Screenshot 
+## Here is a screenshot of my project:
 
-[https://github.com/Rajat75-tech/Portfolio/raw/main/public/thumbnail.png](https://raw.githubusercontent.com/Rajat75-tech/Portfolio/main/public/thumbnail.png)
+(public/thumbnail.png)
