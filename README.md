@@ -23,3 +23,7 @@ A sleek and modern personal portfolio website built using React, Tailwind CSS, a
    ```sh
    git clone: https://github.com/Rajat75-tech/Portfolio.git
    cd Portfolio
+
+## Screenshot 
+
+https://github.com/Rajat75-tech/Portfolio/raw/main/public/thumbnail.png
