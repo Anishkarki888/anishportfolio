@@ -26,4 +26,4 @@ A sleek and modern personal portfolio website built using React, Tailwind CSS, a
 
 ## Screenshot 
 
-https://github.com/Rajat75-tech/Portfolio/raw/main/public/thumbnail.png
+[https://github.com/Rajat75-tech/Portfolio/raw/main/public/thumbnail.png](https://raw.githubusercontent.com/Rajat75-tech/Portfolio/main/public/thumbnail.png)
