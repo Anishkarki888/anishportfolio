@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-[Your local changes or changes from the current rebase step]
+(your local changes)
 =======
-[Changes from the commit being rebased]
->>>>>>> 
+(remote repository changes)
+>>>>>>> origin/main
