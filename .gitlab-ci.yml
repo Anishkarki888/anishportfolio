@@ -1,18 +1,10 @@
-image: node:latest
+iimage: node:latest
 
-stages:
-  - build
-  - deploy
-
-build:
+pages:
   script:
-    - npm install
-    - npm run build
-    - mv build public
+    - mkdir public
+    - cp -r * public
   artifacts:
     paths:
       - public
 
-deploy:
-  script:
-    - echo "Deployment complete!"
