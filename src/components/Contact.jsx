@@ -40,6 +40,17 @@ const Contact = () => {
       );
   };
 
+  // Function to handle resume download
+  const downloadResume = () => {
+    const resumeUrl = "public/anish_karki_CV-1.pdf"; // Replace with your actual resume file path
+    const link = document.createElement("a");
+    link.href = resumeUrl;
+    link.download = "Anish_Karki_Resume.pdf"; // Change to your preferred file name
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
+
   return (
     <div id="contact" className="flex flex-col items-center justify-center min-h-screen p-8 w-full">
       <h2 className="text-4xl font-semibold text-white mb-6">Contact Me</h2>
@@ -61,6 +72,14 @@ const Contact = () => {
         </button>
         {isSent && <p className="text-green-500 mt-4">Message sent successfully!</p>}
       </form>
+
+      {/* Resume Download Button */}
+      <button
+        onClick={downloadResume}
+        className="cursor-pointer w-500px bg-gradient-to-r from-blue-500 to-pink-500 text-white p-3 rounded-md hover:opacity-90 transition-all duration-200"
+      >
+        Download Resume
+      </button>
     </div>
   );
 };

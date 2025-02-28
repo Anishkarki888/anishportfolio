@@ -1,4 +1,4 @@
-import image from "/public/images.png";
+import image from "/public/anish1.png";
 import { motion } from "framer-motion";
 
 
@@ -28,14 +28,13 @@ const Hero = () => {
 
         className="flex max-w-[600px] flex-col items-center justify-center gap-3 text-center">
           <h1 className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent opacity-80 text-5xl font-light md:text-7xl">
-            RAJAT SHARMA
+            ANISH KARKI
           </h1>
           <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent opacity-80 text-2xl md:text-3xl">
-            FrontEnd Developer
+            AI Engineer
           </h3>
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            I'm a front-end developer skilled in HTML, CSS, and JavaScript, with
-            expertise in React and Tailwind CSS.
+          As a passionate AI Engineer, I specialize in deep learning. My goal is to build innovative solutions that advance technology and contribute to the future of artificial general intelligence (AGI), while maintaining expertise in full-stack development.
           </p>
         </motion.div>
       </div>

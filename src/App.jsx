@@ -18,6 +18,7 @@ function App() {
     </>
   );
 }
+// this is portfolio of anish karki
 
 export default App;
 
