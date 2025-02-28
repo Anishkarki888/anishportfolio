@@ -27,8 +27,7 @@ A sleek and modern personal portfolio website built using React, Tailwind CSS, a
 
 ## Here is a screenshot of my project:
 
-![Screenshot of the Project](./public/thumbnail.png)
-=======
+
 # anish-portfolio
 
 
